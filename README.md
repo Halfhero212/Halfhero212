@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Halfhero212
 - 👀 I’m interested in software
-- 🌱 I’m currently learning web development 
 - 📫 How to reach me noorlp21@gmail.com
 
 <!---
